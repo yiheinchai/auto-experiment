@@ -1,0 +1,101 @@
+pyr q= 8 n=   44 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.8e-02  <-- genuine slack
+pyr q= 9 n=   56 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.3e-03  <-- genuine slack
+pyr q=10 n=   76 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.1e-02
+pyr q=11 n=   92 DOF-E=  0 pinned=  0 effective slack=   0 min margin=2.6e-03
+pyr q=12 n=  120 DOF-E=  1 pinned=  1 effective slack=   0 min margin=6.7e-16
+pyr q=13 n=  142 DOF-E=  0 pinned=  0 effective slack=   0 min margin=2.6e-03
+pyr q=14 n=  175 DOF-E=  2 pinned=  0 effective slack=   2 min margin=4.5e-03  <-- genuine slack
+pyr q=15 n=  203 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.2e-03  <-- genuine slack
+pyr q=16 n=  254 DOF-E=  3 pinned=  0 effective slack=   3 min margin=9.4e-03  <-- genuine slack
+pyr q=17 n=  293 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.2e-03
+pyr q=18 n=  344 DOF-E=  4 pinned=  0 effective slack=   4 min margin=2.8e-03  <-- genuine slack
+pyr q=19 n=  394 DOF-E=  3 pinned=  0 effective slack=   3 min margin=2.1e-04  <-- genuine slack
+pyr q=20 n=  464 DOF-E=  3 pinned=  0 effective slack=   3 min margin=2.3e-03  <-- genuine slack
+pyr q=21 n=  522 DOF-E=  3 pinned=  0 effective slack=   3 min margin=5.3e-04  <-- genuine slack
+pyr q=22 n=  595 DOF-E=  5 pinned=  0 effective slack=   5 min margin=5.4e-04  <-- genuine slack
+pyr q=23 n=  665 DOF-E=  4 pinned=  0 effective slack=   4 min margin=7.0e-05  <-- genuine slack
+pyr q=24 n=  756 DOF-E=  2 pinned=  0 effective slack=   2 min margin=9.5e-05  <-- genuine slack
+pyr q=25 n=  843 DOF-E=  1 pinned=  0 effective slack=   1 min margin=8.0e-04  <-- genuine slack
+pyr q=26 n=  942 DOF-E= 17 pinned= 14 effective slack=   3 min margin=5.9e-09  <-- genuine slack
+pyr q=27 n= 1050 DOF-E= 19 pinned= 18 effective slack=   1 min margin=9.0e-10  <-- genuine slack
+pyr q=28 n= 1171 DOF-E= 26 pinned= 22 effective slack=   4 min margin=7.0e-10  <-- genuine slack
+pyr q=29 n= 1275 DOF-E= 24 pinned= 21 effective slack=   3 min margin=2.5e-09  <-- genuine slack
+pyr q=30 n= 1417 DOF-E= 24 pinned= 20 effective slack=   4 min margin=7.2e-10  <-- genuine slack
+pri q= 8 n=   46 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.7e-02
+pri q= 9 n=   60 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.3e-02  <-- genuine slack
+pri q=10 n=   82 DOF-E=  1 pinned=  0 effective slack=   1 min margin=5.3e-03  <-- genuine slack
+pri q=11 n=   97 DOF-E=  0 pinned=  0 effective slack=   0 min margin=4.0e-03
+pri q=12 n=  127 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.7e-03
+pri q=13 n=  146 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.0e-03
+pri q=14 n=  182 DOF-E=  0 pinned=  0 effective slack=   0 min margin=3.8e-03
+pri q=15 n=  220 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.2e-03
+pri q=16 n=  264 DOF-E=  1 pinned=  0 effective slack=   1 min margin=7.2e-04  <-- genuine slack
+pri q=17 n=  299 DOF-E=  2 pinned=  0 effective slack=   2 min margin=1.1e-02  <-- genuine slack
+pri q=18 n=  359 DOF-E=  2 pinned=  1 effective slack=   1 min margin=2.2e-08  <-- genuine slack
+pri q=19 n=  405 DOF-E=  1 pinned=  0 effective slack=   1 min margin=3.1e-03  <-- genuine slack
+pri q=20 n=  470 DOF-E=  3 pinned=  0 effective slack=   3 min margin=4.6e-04  <-- genuine slack
+pri q=21 n=  545 DOF-E=  6 pinned=  0 effective slack=   6 min margin=1.4e-04  <-- genuine slack
+pri q=22 n=  635 DOF-E=  7 pinned=  0 effective slack=   7 min margin=6.3e-04  <-- genuine slack
+pri q=23 n=  695 DOF-E= 12 pinned=  0 effective slack=  12 min margin=7.9e-04  <-- genuine slack
+pri q=24 n=  772 DOF-E=  7 pinned=  0 effective slack=   7 min margin=8.0e-04  <-- genuine slack
+pri q=25 n=  878 DOF-E=  8 pinned=  0 effective slack=   8 min margin=1.2e-04  <-- genuine slack
+pri q=26 n=  986 DOF-E= 13 pinned= 11 effective slack=   2 min margin=1.5e-14  <-- genuine slack
+pri q=27 n= 1080 DOF-E= 21 pinned= 17 effective slack=   4 min margin=1.5e-14  <-- genuine slack
+pri q=28 n= 1197 DOF-E= 16 pinned= 11 effective slack=   5 min margin=1.5e-08  <-- genuine slack
+pri q=29 n= 1311 DOF-E= 20 pinned= 12 effective slack=   8 min margin=1.5e-08  <-- genuine slack
+pri q=30 n= 1460 DOF-E= 20 pinned= 17 effective slack=   3 min margin=1.5e-08  <-- genuine slack
+cube q= 9 n=   58 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.1e-02
+cube q=11 n=   90 DOF-E=  0 pinned=  0 effective slack=   0 min margin=2.0e-02
+cube q=13 n=  148 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.5e-03
+cube q=15 n=  199 DOF-E=  0 pinned=  0 effective slack=   0 min margin=3.9e-03
+cube q=17 n=  282 DOF-E=  0 pinned=  0 effective slack=   0 min margin=3.0e-03
+cube q=19 n=  369 DOF-E=  0 pinned=  0 effective slack=   0 min margin=5.2e-03
+cube q=21 n=  495 DOF-E=  1 pinned=  0 effective slack=   1 min margin=6.9e-04  <-- genuine slack
+cube q=23 n=  617 DOF-E=  0 pinned=  0 effective slack=   0 min margin=9.7e-04
+cube q=25 n=  828 DOF-E=  2 pinned=  2 effective slack=   0 min margin=1.0e-15
+cube q=27 n=  984 DOF-E=  2 pinned=  2 effective slack=   0 min margin=1.0e-15
+cube q=29 n= 1258 DOF-E=  4 pinned=  2 effective slack=   2 min margin=1.0e-15  <-- genuine slack
+cube q=31 n= 1478 DOF-E=  3 pinned=  0 effective slack=   3 min margin=3.6e-03  <-- genuine slack
+cube q=33 n= 1787 DOF-E=  4 pinned=  3 effective slack=   1 min margin=1.0e-15  <-- genuine slack
+cube q=35 n= 2102 DOF-E=  7 pinned=  6 effective slack=   1 min margin=2.2e-14  <-- genuine slack
+cube q=37 n= 2506 DOF-E= 10 pinned=  6 effective slack=   4 min margin=2.2e-14  <-- genuine slack
+cube q=39 n= 2856 DOF-E=  5 pinned=  4 effective slack=   1 min margin=2.2e-14  <-- genuine slack
+cube q=41 n= 3338 DOF-E=  6 pinned=  5 effective slack=   1 min margin=2.2e-10  <-- genuine slack
+cube q=43 n= 3870 DOF-E= 11 pinned=  6 effective slack=   5 min margin=2.2e-08  <-- genuine slack
+cube q=45 n= 4414 DOF-E= 12 pinned=  5 effective slack=   7 min margin=2.2e-08  <-- genuine slack
+sqr q= 9 n=   20 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.0e-02
+sqr q=11 n=   28 DOF-E=  1 pinned=  0 effective slack=   1 min margin=3.8e-02  <-- genuine slack
+sqr q=13 n=   37 DOF-E=  0 pinned=  0 effective slack=   0 min margin=3.1e-02
+sqr q=15 n=   48 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.0e-02  <-- genuine slack
+sqr q=17 n=   57 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.3e-02
+sqr q=19 n=   72 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.4e-02
+sqr q=21 n=   85 DOF-E=  0 pinned=  0 effective slack=   0 min margin=8.7e-03
+sqr q=23 n=  101 DOF-E=  0 pinned=  0 effective slack=   0 min margin=4.9e-03
+sqr q=25 n=  120 DOF-E=  0 pinned=  0 effective slack=   0 min margin=7.5e-03
+sqr q=27 n=  137 DOF-E=  0 pinned=  0 effective slack=   0 min margin=4.6e-03
+sqr q=29 n=  157 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.0e-03
+sqr q=31 n=  177 DOF-E=  0 pinned=  0 effective slack=   0 min margin=5.0e-03
+sqr q=33 n=  201 DOF-E=  0 pinned=  0 effective slack=   0 min margin=5.6e-03
+sqr q=35 n=  224 DOF-E=  0 pinned=  0 effective slack=   0 min margin=3.0e-03
+sqr q=37 n=  249 DOF-E=  0 pinned=  0 effective slack=   0 min margin=4.5e-03
+sqr q=39 n=  277 DOF-E=  1 pinned=  0 effective slack=   1 min margin=2.2e-03  <-- genuine slack
+sqr q=41 n=  304 DOF-E=  0 pinned=  0 effective slack=   0 min margin=2.6e-03
+sqr q=43 n=  336 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.3e-03  <-- genuine slack
+sqr q=45 n=  365 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.7e-03
+sqr q=47 n=  397 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.7e-03  <-- genuine slack
+sqr q=49 n=  433 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.2e-03  <-- genuine slack
+sqr q=51 n=  465 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.5e-03  <-- genuine slack
+sqr q=53 n=  501 DOF-E=  1 pinned=  0 effective slack=   1 min margin=1.6e-03  <-- genuine slack
+sqr q=55 n=  541 DOF-E=  2 pinned=  0 effective slack=   2 min margin=1.6e-03  <-- genuine slack
+sqr q=57 n=  576 DOF-E=  0 pinned=  0 effective slack=   0 min margin=1.4e-03
+sqr q=59 n=  613 DOF-E=  0 pinned=  0 effective slack=   0 min margin=6.4e-04
+sqr q=61 n=  660 DOF-E=  2 pinned=  0 effective slack=   2 min margin=1.0e-03  <-- genuine slack
+sqr q=63 n=  709 DOF-E=  6 pinned=  0 effective slack=   6 min margin=3.3e-04  <-- genuine slack
+sqr q=65 n=  757 DOF-E=  7 pinned=  0 effective slack=   7 min margin=1.0e-03  <-- genuine slack
+sqr q=67 n=  805 DOF-E=  8 pinned=  1 effective slack=   7 min margin=2.2e-08  <-- genuine slack
+sqr q=69 n=  849 DOF-E=  7 pinned=  1 effective slack=   6 min margin=2.2e-08  <-- genuine slack
+sqr q=71 n=  904 DOF-E=  9 pinned=  1 effective slack=   8 min margin=2.2e-08  <-- genuine slack
+sqr q=73 n=  953 DOF-E= 10 pinned=  1 effective slack=   9 min margin=2.2e-08  <-- genuine slack
+sqr q=75 n= 1001 DOF-E=  8 pinned=  1 effective slack=   7 min margin=2.2e-08  <-- genuine slack
+sqr q=77 n= 1049 DOF-E=  7 pinned=  0 effective slack=   7 min margin=5.2e-05  <-- genuine slack
+sqr q=79 n= 1132 DOF-E= 18 pinned=  2 effective slack=  16 min margin=2.2e-08  <-- genuine slack
