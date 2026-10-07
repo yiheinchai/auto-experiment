@@ -1,9 +1,0 @@
-start: nodes=695 counts=[1, 2, 4, 36, 7, 35] DOF=282 E=270 |r|=1.65e-14
-  orbit   64 (S6, w=5.99e-04): no  stuck at t=0.689 after 178 steps, 178s
-  orbit   52 (S6, w=1.07e-03): no  stuck at t=0.514 after 400 steps, 567s
-  orbit   59 (S6, w=1.09e-03): no  stuck at t=0.197 after 108 steps, 87s
-  orbit   80 (S6, w=1.14e-03): no  stuck at t=0.379 after 99 steps, 103s
-  orbit   51 (S6, w=1.17e-03): no  stuck at t=0.541 after 154 steps, 230s
-  orbit   72 (S6, w=1.33e-03): no  stuck at t=0.795 after 200 steps, 241s
-  orbit   68 (S6, w=1.40e-03): no  stuck at t=0.392 after 400 steps, 445s
-  orbit   50 (S6, w=1.58e-03): no  stuck at t=0.756 after 219 steps, 266s
