@@ -26,6 +26,7 @@ from qsearch import DOMAINS, System, Rule, load_expanded, rep_jac  # noqa: E402
 
 TOL = 1e-13
 PIN = 1e-7
+MIN_MARGIN = 1e-5   # every node must stay at least this far inside the domain
 A13 = math.atanh(1 / 3)
 
 # goals per (domain, orbit type): (coefficients over the orbit's u-params, target, label)
@@ -112,7 +113,7 @@ def newton_aug(S, rule, theta, gvec, gtarget, maxit=15):
 
 def interior_ok(S, rule, theta, wmin=1e-13):
     cur = S.unpack(rule, theta)
-    if S.margins(cur).min() <= 1e-12:
+    if S.margins(cur).min() < MIN_MARGIN:
         return False
     for i, (start, k) in enumerate(layout(S, rule)):
         if theta[start + k] < math.log(wmin):
@@ -210,7 +211,10 @@ def main():
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--batch", type=int, default=8)
     ap.add_argument("--maxsteps", type=int, default=300)
+    ap.add_argument("--min-margin", type=float, default=1e-5)
     a = ap.parse_args()
+    global MIN_MARGIN
+    MIN_MARGIN = a.min_margin
     os.makedirs(a.outdir, exist_ok=True)
     dom = DOMAINS[a.domain]()
     S = System(dom, a.q)
